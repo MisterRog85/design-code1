@@ -14,6 +14,7 @@
 		23736BE824B5D8C600DCEB83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23736BE724B5D8C600DCEB83 /* Assets.xcassets */; };
 		23736BEB24B5D8C600DCEB83 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23736BEA24B5D8C600DCEB83 /* Preview Assets.xcassets */; };
 		23736BEE24B5D8C600DCEB83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23736BEC24B5D8C600DCEB83 /* LaunchScreen.storyboard */; };
+		238F163624BF1E5600608B77 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238F163524BF1E5600608B77 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		23736BEA24B5D8C600DCEB83 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		23736BED24B5D8C600DCEB83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23736BEF24B5D8C600DCEB83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		238F163524BF1E5600608B77 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				23736BEF24B5D8C600DCEB83 /* Info.plist */,
 				23736BE924B5D8C600DCEB83 /* Preview Content */,
 				23610F3024BA1B8600C3A0B2 /* MenuView.swift */,
+				238F163524BF1E5600608B77 /* Home.swift */,
 			);
 			path = designcode1;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */,
 				23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */,
+				238F163624BF1E5600608B77 /* Home.swift in Sources */,
 				23736BE424B5D8C100DCEB83 /* SceneDelegate.swift in Sources */,
 				23736BE624B5D8C100DCEB83 /* ContentView.swift in Sources */,
 			);
