@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2312CAD424C8C6210042165E /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2312CAD324C8C6210042165E /* UpdateList.swift */; };
+		2312CAD624C8CB6B0042165E /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2312CAD524C8CB6B0042165E /* UpdateDetail.swift */; };
 		23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23610F3024BA1B8600C3A0B2 /* MenuView.swift */; };
 		23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23736BE124B5D8C100DCEB83 /* AppDelegate.swift */; };
 		23736BE424B5D8C100DCEB83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23736BE324B5D8C100DCEB83 /* SceneDelegate.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		2312CAD324C8C6210042165E /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
+		2312CAD524C8CB6B0042165E /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		23610F3024BA1B8600C3A0B2 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		23736BDE24B5D8C100DCEB83 /* designcode1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = designcode1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23736BE124B5D8C100DCEB83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				238F163524BF1E5600608B77 /* Home.swift */,
 				238F163724C06F5200608B77 /* HomeView.swift */,
 				2312CAD324C8C6210042165E /* UpdateList.swift */,
+				2312CAD524C8CB6B0042165E /* UpdateDetail.swift */,
 			);
 			path = designcode1;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 				23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */,
 				2312CAD424C8C6210042165E /* UpdateList.swift in Sources */,
 				23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */,
+				2312CAD624C8CB6B0042165E /* UpdateDetail.swift in Sources */,
 				238F163624BF1E5600608B77 /* Home.swift in Sources */,
 				238F163824C06F5200608B77 /* HomeView.swift in Sources */,
 				23736BE424B5D8C100DCEB83 /* SceneDelegate.swift in Sources */,
