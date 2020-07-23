@@ -101,6 +101,7 @@ struct ContentView: View {
             )
             
         }
+        .padding(.top, 36)
     }
 }
 
