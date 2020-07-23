@@ -18,6 +18,7 @@
 		23736BEE24B5D8C600DCEB83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23736BEC24B5D8C600DCEB83 /* LaunchScreen.storyboard */; };
 		238F163624BF1E5600608B77 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238F163524BF1E5600608B77 /* Home.swift */; };
 		238F163824C06F5200608B77 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238F163724C06F5200608B77 /* HomeView.swift */; };
+		23A39D6F24C9A4CD007AED98 /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A39D6E24C9A4CD007AED98 /* UpdateStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		23736BEF24B5D8C600DCEB83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		238F163524BF1E5600608B77 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		238F163724C06F5200608B77 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		23A39D6E24C9A4CD007AED98 /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				238F163524BF1E5600608B77 /* Home.swift */,
 				238F163724C06F5200608B77 /* HomeView.swift */,
 				2312CAD324C8C6210042165E /* UpdateList.swift */,
+				23A39D6E24C9A4CD007AED98 /* UpdateStore.swift */,
 				2312CAD524C8CB6B0042165E /* UpdateDetail.swift */,
 			);
 			path = designcode1;
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */,
+				23A39D6F24C9A4CD007AED98 /* UpdateStore.swift in Sources */,
 				2312CAD424C8C6210042165E /* UpdateList.swift in Sources */,
 				23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */,
 				2312CAD624C8CB6B0042165E /* UpdateDetail.swift in Sources */,
