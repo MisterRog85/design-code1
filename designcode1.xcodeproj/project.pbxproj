@@ -18,6 +18,7 @@
 		23736BEE24B5D8C600DCEB83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23736BEC24B5D8C600DCEB83 /* LaunchScreen.storyboard */; };
 		238F163624BF1E5600608B77 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238F163524BF1E5600608B77 /* Home.swift */; };
 		238F163824C06F5200608B77 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238F163724C06F5200608B77 /* HomeView.swift */; };
+		23CEF0D024CD7F66005BF728 /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CEF0CF24CD7F66005BF728 /* RingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		23736BEF24B5D8C600DCEB83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		238F163524BF1E5600608B77 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		238F163724C06F5200608B77 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		23CEF0CF24CD7F66005BF728 /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				23736BE124B5D8C100DCEB83 /* AppDelegate.swift */,
 				23736BE324B5D8C100DCEB83 /* SceneDelegate.swift */,
 				23736BE524B5D8C100DCEB83 /* ContentView.swift */,
+				23CEF0CF24CD7F66005BF728 /* RingView.swift */,
 				23736BE724B5D8C600DCEB83 /* Assets.xcassets */,
 				23736BEC24B5D8C600DCEB83 /* LaunchScreen.storyboard */,
 				23736BEF24B5D8C600DCEB83 /* Info.plist */,
@@ -164,6 +167,7 @@
 				23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */,
 				2312CAD424C8C6210042165E /* UpdateList.swift in Sources */,
 				23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */,
+				23CEF0D024CD7F66005BF728 /* RingView.swift in Sources */,
 				2312CAD624C8CB6B0042165E /* UpdateDetail.swift in Sources */,
 				238F163624BF1E5600608B77 /* Home.swift in Sources */,
 				238F163824C06F5200608B77 /* HomeView.swift in Sources */,
