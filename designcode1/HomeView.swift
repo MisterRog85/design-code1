@@ -18,8 +18,8 @@ struct HomeView: View {
             VStack {
                 HStack {
                     Text("Watching")
-    //                    .font(.system(size: 28, weight: .bold))
-                        .modifier(CustomFontModifier(size: 28))
+                        .font(.system(size: 28, weight: .bold))
+//                        .modifier(CustomFontModifier(size: 28))
                     
                     Spacer()
                     

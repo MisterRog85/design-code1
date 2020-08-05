@@ -31,6 +31,7 @@
 		23CEF0E724CE0BF0005BF728 /* Rubik-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23CEF0DC24CE0BF0005BF728 /* Rubik-BlackItalic.ttf */; };
 		23CEF0E824CE0BF0005BF728 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23CEF0DD24CE0BF0005BF728 /* Rubik-Regular.ttf */; };
 		23CEF0E924CE0BF0005BF728 /* Rubik-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23CEF0DE24CE0BF0005BF728 /* Rubik-BoldItalic.ttf */; };
+		23CEF0F224DB1AF3005BF728 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CEF0F124DB1AF3005BF728 /* CourseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		23CEF0DC24CE0BF0005BF728 /* Rubik-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-BlackItalic.ttf"; sourceTree = "<group>"; };
 		23CEF0DD24CE0BF0005BF728 /* Rubik-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Regular.ttf"; sourceTree = "<group>"; };
 		23CEF0DE24CE0BF0005BF728 /* Rubik-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-BoldItalic.ttf"; sourceTree = "<group>"; };
+		23CEF0F124DB1AF3005BF728 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				23736BE524B5D8C100DCEB83 /* ContentView.swift */,
 				23CEF0CF24CD7F66005BF728 /* RingView.swift */,
 				23CEF0D124CE0900005BF728 /* Modifiers.swift */,
+				23CEF0F124DB1AF3005BF728 /* CourseList.swift */,
 				23736BE724B5D8C600DCEB83 /* Assets.xcassets */,
 				23CEF0D324CE0BF0005BF728 /* Rubik */,
 				23736BEC24B5D8C600DCEB83 /* LaunchScreen.storyboard */,
@@ -222,6 +225,7 @@
 				23736BE224B5D8C100DCEB83 /* AppDelegate.swift in Sources */,
 				2312CAD424C8C6210042165E /* UpdateList.swift in Sources */,
 				23610F3124BA1B8600C3A0B2 /* MenuView.swift in Sources */,
+				23CEF0F224DB1AF3005BF728 /* CourseList.swift in Sources */,
 				23CEF0D024CD7F66005BF728 /* RingView.swift in Sources */,
 				23CEF0D224CE0900005BF728 /* Modifiers.swift in Sources */,
 				2312CAD624C8CB6B0042165E /* UpdateDetail.swift in Sources */,
